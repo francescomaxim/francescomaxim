@@ -36,7 +36,7 @@ My vision is to become an **AI-powered Fullstack Web Developer** – someone who
 
 ## 📂 Featured Projects
 
-### 🏫 [Classter](https://github.com/username/classter)  
+### 🏫 [Classter](https://github.com/francescomaxim/school-mngr)  
 **Angular • Firebase • NgRx • AI**
 
 > A modern school management platform that provides role-based dashboards for admins, teachers, and students. Built using 100% Standalone Angular components and NgRx for clean and scalable state management.  
@@ -50,7 +50,7 @@ My vision is to become an **AI-powered Fullstack Web Developer** – someone who
 > - Firebase Firestore & Auth integration  
 > - Fully responsive and modular architecture  
 
-### 💸 [Expense Tracker AI](https://github.com/username/expense-tracker-ai)  
+### 💸 [Expense Tracker AI](https://github.com/francescomaxim/expense-tracker)  
 **Angular • Firebase • Google Vision • Gemini AI**
 
 > A smart personal finance tracker enhanced with AI features to help users understand and optimize their spending.  
@@ -62,7 +62,7 @@ My vision is to become an **AI-powered Fullstack Web Developer** – someone who
 > - Firebase Auth + Firestore for secure user data and real-time updates  
 > - Responsive UI, modern Angular structure, and clean UX  
 
-### ❤️ [Tindev](https://github.com/username/tindev)  
+### ❤️ [TinderClone](https://github.com/francescomaxim/tinder-clone)  
 **Angular • Spring Boot • Firebase • WebSockets**
 
 > A real-time dating-style app inspired by Tinder, built as a fullstack project using Angular and Spring Boot.  
@@ -78,8 +78,8 @@ My vision is to become an **AI-powered Fullstack Web Developer** – someone who
 
 ## 🤝 Let’s Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📂 [Portfolio](https://yourwebsite.com) *(optional)*  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/francescomaxim/)  
+- 📂 [Portfolio](https://francescomaxim.github.io/)
 - 📬 Reach out for Junior Frontend / Fullstack roles, collabs, or just dev talk!
 
 ---
