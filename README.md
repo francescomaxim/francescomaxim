@@ -36,23 +36,43 @@ My vision is to become an **AI-powered Fullstack Web Developer** – someone who
 
 ## 📂 Featured Projects
 
-### 🏫 [Classter](https://github.com/username/classter)
+### 🏫 [Classter](https://github.com/username/classter)  
 **Angular • Firebase • NgRx • AI**
-> A smart school management platform with dashboards for admins, teachers, and students. Features include AI-powered analytics, real-time updates, and modular architecture using Standalone Angular components.
 
-### 💸 [Expense Tracker AI](https://github.com/username/expense-tracker-ai)
+> A modern school management platform that provides role-based dashboards for admins, teachers, and students. Built using 100% Standalone Angular components and NgRx for clean and scalable state management.  
+> Features include:  
+> - AI-enhanced analytics & reports  
+> - Admin panel to manage users and view reports  
+> - Teacher dashboard with course management, assignments, attendance, calendar & charts  
+> - Student dashboard with upcoming tasks, attendance stats, to-do list, and course overview  
+> - Secure authentication (no public signup — accounts created by admins)  
+> - Dynamic headers and layouts based on user role  
+> - Firebase Firestore & Auth integration  
+> - Fully responsive and modular architecture  
+
+### 💸 [Expense Tracker AI](https://github.com/username/expense-tracker-ai)  
 **Angular • Firebase • Google Vision • Gemini AI**
-> Upload receipts, parse them with Google Vision API, and get AI-generated insights using Gemini. Includes a voice-enabled chatbot assistant.
 
-### ❤️ [Tindev](https://github.com/username/tindev)
+> A smart personal finance tracker enhanced with AI features to help users understand and optimize their spending.  
+> Core features:  
+> - Upload receipts and auto-extract expense data using Google Vision API  
+> - AI-generated summaries and insights with Gemini API  
+> - Natural language chatbot assistant that can answer budget-related queries  
+> - Category mapping and visualization of expenses  
+> - Firebase Auth + Firestore for secure user data and real-time updates  
+> - Responsive UI, modern Angular structure, and clean UX  
+
+### ❤️ [Tindev](https://github.com/username/tindev)  
 **Angular • Spring Boot • Firebase • WebSockets**
-> A Tinder-style matching app with real-time chat, swipe UI, and secure Spring Boot backend.
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+> A real-time dating-style app inspired by Tinder, built as a fullstack project using Angular and Spring Boot.  
+> Highlights:  
+> - Swipeable UI for matching developers based on skills/interests  
+> - Secure authentication and user management  
+> - WebSocket-based real-time chat functionality  
+> - Spring Boot REST API backend with secure endpoints  
+> - Firebase for image storage and messaging sync  
+> - Intuitive, mobile-friendly interface and dynamic routing  
 
 ---
 
